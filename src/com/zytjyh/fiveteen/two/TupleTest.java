@@ -3,8 +3,6 @@ package com.zytjyh.fiveteen.two;
 import net.mindview.util.FiveTuple;
 import net.mindview.util.FourTuple;
 
-class Amphibian{}
-class Vehicle{}
 public class TupleTest {
     static TwoTuple<String,Integer> f(){
         return new TwoTuple<String,Integer>("hi",47);
@@ -13,7 +11,7 @@ public class TupleTest {
         return new ThreeTuple<Amphibian,String,Integer>(
                 new Amphibian(),"hi",47);
     }
-    static FourTuple<Vehicle,Amphibian,String,Integer>h(){
+    public static FourTuple<Vehicle,Amphibian,String,Integer>h(){
         return new FourTuple<>(new Vehicle(),new Amphibian(),"hi",47);
     }
     static FiveTuple<Vehicle,Amphibian,String,Integer,Double>k(){
