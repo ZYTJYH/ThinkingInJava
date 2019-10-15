@@ -2,36 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e046497f-d1f9-4ef3-9b71-f3426ba86627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ArrayMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ErasedTypeEquivalence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ErasureAndInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/FilledListMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/GenericHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/HasF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/HomeWork20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ListMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/LostInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/Manipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/SimpleHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/five/BankTeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/five/HomeWork18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/BasicGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/BasicGeneratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/CountedObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/TupleTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/WaterColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/WatercolorSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/six/HomeWork19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/six/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/six/TupleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/two/Amphibian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/two/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGenericReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ClassTypeCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/CreatorGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/Erased.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/FactoryConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArrayWithTypeToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/HomeWork21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/InstantiateGenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ListOfGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/ClassTypeCapture24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/FactoryConstraint23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/HomeWork22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/two/TupleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zytjyh/fiveteen/two/TupleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,136 +40,137 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ErasedTypeEquivalence.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/ClassTypeCapture24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/Manipulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#337#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/HomeWork20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ErasureAndInheritance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ArrayMaker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="-21">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#150#180#1" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#1262#1272#0" expanded="true" />
+                <element signature="e#1448#1455#0" expanded="true" />
+                <element signature="e#1629#1639#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/ListMaker.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ListOfGenerics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/FilledListMaker.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGenericReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGeneric.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#388#396#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/SimpleHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/GenericHolder.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <element signature="e#260#268#0" expanded="true" />
+                <element signature="e#99#129#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#460#469#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/HasF.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#442#451#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArrayWithTypeToken.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding>
-                <element signature="e#75#76#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/reflect/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="479" column="33" selection-start-line="479" selection-start-column="33" selection-end-line="479" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="177" column="28" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -205,6 +192,7 @@
       <find>Test22</find>
       <find>asList</find>
       <find>office</find>
+      <find>Collection</find>
     </findStrings>
     <replaceStrings>
       <replace>HomeWork22</replace>
@@ -217,23 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/two/RandomList.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/two/HomeWork6.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Latte.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Cappuccino.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Americano.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Breve.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/CoffeeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/IterableFibonacci.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/HomeWork7.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/three/HomeWork8.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/GenericMethods.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork9.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork10.java" />
-        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/SimplePets.java" />
         <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/LimitsOfInference.java" />
         <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork11.java" />
         <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/ExplicitTypeSpecification.java" />
@@ -268,12 +239,29 @@
         <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/FilledListMaker.java" />
         <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/SimpleHolder.java" />
         <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/GenericHolder.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/Erased.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ClassAsFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/InstantiateGenericType.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/FactoryConstraint.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/CreatorGeneric.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/HomeWork22.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ClassTypeCapture.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/HomeWork21.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/HomeWork22.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/FactoryConstraint23.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/ClassTypeCapture24.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ListOfGenerics.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGenericReference.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGeneric.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray2.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArrayWithTypeToken.java" />
+        <option value="$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -318,7 +306,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zytjyh" type="462c0819:PsiDirectoryNode" />
               <item name="fiveteen" type="462c0819:PsiDirectoryNode" />
-              <item name="Seven" type="462c0819:PsiDirectoryNode" />
+              <item name="Eight" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
@@ -341,7 +329,7 @@
     <property name="SearchEverywhereHistoryKey" value="Annotation&#9;PSI&#9;JAVA://java.lang.annotation.Annotation&#10;AnnotatedE&#9;PSI&#9;JAVA://java.lang.reflect.AnnotatedElement" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571129772566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571147957683" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -367,13 +355,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericHolder">
-    <configuration name="ArrayMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Seven.ArrayMaker" />
+  <component name="RunManager" selected="Application.GenericArray">
+    <configuration name="ArrayOfGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Eight.ArrayOfGeneric" />
       <module name="ThinkingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zytjyh.fiveteen.Seven.*" />
+          <option name="PATTERN" value="com.zytjyh.fiveteen.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErasureAndInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Seven.ErasureAndInheritance" />
+    <configuration name="ClassTypeCapture24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Eight.homework.ClassTypeCapture24" />
       <module name="ThinkingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zytjyh.fiveteen.Seven.*" />
+          <option name="PATTERN" value="com.zytjyh.fiveteen.Eight.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,12 +382,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilledListMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Seven.FilledListMaker" />
+    <configuration name="GenericArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Eight.GenericArray" />
       <module name="ThinkingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zytjyh.fiveteen.Seven.*" />
+          <option name="PATTERN" value="com.zytjyh.fiveteen.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +395,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Seven.GenericHolder" />
+    <configuration name="GenericArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Eight.GenericArray2" />
       <module name="ThinkingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zytjyh.fiveteen.Seven.*" />
+          <option name="PATTERN" value="com.zytjyh.fiveteen.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Seven.ListMaker" />
+    <configuration name="GenericArrayWithTypeToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zytjyh.fiveteen.Eight.GenericArrayWithTypeToken" />
       <module name="ThinkingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zytjyh.fiveteen.Seven.*" />
+          <option name="PATTERN" value="com.zytjyh.fiveteen.Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,19 +422,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ErasureAndInheritance" />
-      <item itemvalue="Application.ArrayMaker" />
-      <item itemvalue="Application.ListMaker" />
-      <item itemvalue="Application.FilledListMaker" />
-      <item itemvalue="Application.GenericHolder" />
+      <item itemvalue="Application.ClassTypeCapture24" />
+      <item itemvalue="Application.ArrayOfGeneric" />
+      <item itemvalue="Application.GenericArray" />
+      <item itemvalue="Application.GenericArray2" />
+      <item itemvalue="Application.GenericArrayWithTypeToken" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericHolder" />
-        <item itemvalue="Application.FilledListMaker" />
-        <item itemvalue="Application.ArrayMaker" />
-        <item itemvalue="Application.ListMaker" />
-        <item itemvalue="Application.ErasureAndInheritance" />
+        <item itemvalue="Application.GenericArray" />
+        <item itemvalue="Application.GenericArrayWithTypeToken" />
+        <item itemvalue="Application.GenericArray2" />
+        <item itemvalue="Application.ArrayOfGeneric" />
+        <item itemvalue="Application.ClassTypeCapture24" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +455,7 @@
       <workItem from="1548135219936" duration="19882000" />
       <workItem from="1548310848007" duration="6615000" />
       <workItem from="1571057078777" duration="13769000" />
-      <workItem from="1571115993178" duration="12273000" />
+      <workItem from="1571115993178" duration="21525000" />
     </task>
     <task id="LOCAL-00001" summary="第7章看完第一遍">
       <created>1548132904539</created>
@@ -490,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571109696756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="10月15 看了15章到7">
+      <created>1571130020734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571130020735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82629000" />
+    <option name="totallyTimeSpent" value="91881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -506,10 +501,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="12" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -518,14 +513,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.43949044" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.43949044" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987261" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" visible="true" weight="0.4955414" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.39363056" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" weight="0.43949044" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4985694" weight="0.32738853" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -549,7 +544,9 @@
     <MESSAGE value="第7章看完第一遍" />
     <MESSAGE value="10月14 看了15章到2.2" />
     <MESSAGE value="10月15 看了15章到4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="10月15 看了15章到4.3" />
+    <MESSAGE value="10月15 看了15章到4.7" />
+    <MESSAGE value="10月15 看了15章到7" />
+    <option name="LAST_COMMIT_MESSAGE" value="10月15 看了15章到7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -564,178 +561,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork8.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/GenericMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="3789" column="53" selection-start-line="3789" selection-start-column="47" selection-end-line="3789" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/net.mindview.jar!/net/mindview/util/New.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/SimplePets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/LimitsOfInference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/GenericVarargs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/ExplicitTypeSpecification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/five/four/PassingThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/BasicGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/CountedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/BasicGeneratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/TupleTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/four/HomeWork16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1064,9 +889,238 @@
     <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Seven/GenericHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="e#260#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/Erased.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/InstantiateGenericType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#404#414#0" expanded="true" />
+            <element signature="e#601#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/CreatorGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ClassTypeCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#573#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/FactoryConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/HomeWork22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#1855#1865#0" expanded="true" />
+            <element signature="e#1930#1937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/FactoryConstraint23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/HomeWork21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#1268#1278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/homework/ClassTypeCapture24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#1262#1272#0" expanded="true" />
+            <element signature="e#1448#1455#0" expanded="true" />
+            <element signature="e#1629#1639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ListOfGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGenericReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/ArrayOfGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#442#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArrayWithTypeToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="479" column="33" selection-start-line="479" selection-start-column="33" selection-end-line="479" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="177" column="28" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zytjyh/fiveteen/Eight/GenericArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#99#129#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#460#469#0" expanded="true" />
           </folding>
         </state>
       </provider>
